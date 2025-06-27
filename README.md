@@ -1,8 +1,8 @@
-📊 Student Performance Prediction
+**📊 Student Performance Prediction**
 This project predicts student academic performance based on various demographic, educational, and behavioral features using a machine learning model. It includes a Flask web interface for input and prediction.
 
 
-🚀 Features
+**🚀 Features**
 
 Trained ML model (Random Forest Classifier)
 
@@ -15,7 +15,7 @@ Evaluation: accuracy, precision, recall, F1 score, confusion matrix
 Deployment-ready structure
 
 
-🧠 Machine Learning
+**🧠 Machine Learning**
 
 Model Used: Random Forest Classifier (n_estimators=100)
 
@@ -32,7 +32,7 @@ F1 Score
 Confusion Matrix (visualized)
 
 
-📁 Project Structure
+**📁 Project Structure**
 
 student-performance-prediction/
 
@@ -60,12 +60,12 @@ student-performance-prediction/
 
 ├── Notebook
 
-    └── ResearchInformation3.csv 
+└── ResearchInformation3.csv 
     
-    └── student_prediction_system.ipynb
+└── student_prediction_system.ipynb
 
     
-🧪 Technologies Used
+**🧪 Technologies Used**
 
 Python
 
@@ -79,7 +79,7 @@ HTML/CSS
 
 Seaborn/Matplotlib (for visualization)
 
-📝 Dataset
+**📝 Dataset**
 
 The dataset includes student details such as:
 
@@ -93,12 +93,12 @@ Job status, English proficiency
 
 Semester performance
 
-📷 Screenshots
+**📷 Screenshots**
 ![image](https://github.com/user-attachments/assets/61c1e172-4cda-477f-999a-9b7a2287938c)
 ![image](https://github.com/user-attachments/assets/dccead90-7850-4306-854d-99928b5ffede)
 Confussion matrix: ![image](https://github.com/user-attachments/assets/25560eaa-908c-499d-be7e-e726073026f5)
 
-✅ Results
+**✅ Results**
 
 Model Accuracy: 72 %
 
@@ -106,7 +106,7 @@ Confusion matrix showed strong classification in most categories
 
 Supports prediction based on real-world student input
 
-🙋‍♂️ Author
+**🙋‍♂️ Author**
 
 Miss. Anushka Rahul Cholke
 
